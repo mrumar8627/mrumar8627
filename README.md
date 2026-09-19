@@ -6,7 +6,7 @@ I am an IT professional with practical experience in IT support, hardware and so
 
 My current career goal is to pursue an **Ausbildung als Fachinformatiker für Systemintegration** in Germany and develop deeper practical skills in **IT infrastructure, networking, system administration, and technical support**.
 
-Alongside IT infrastructure, I have a background in **PHP, Laravel, JavaScript, React, databases, and web application development**.
+Alongside IT infrastructure, I have a background in **PHP, Laravel, JavaScript, HTML, CSS, Wordpress, databases, and web application development**.
 
 ---
 
