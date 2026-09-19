@@ -2,7 +2,7 @@
 
 ### IT Professional | IT Support | System Integration | Networking | Application Development
 
-I am an IT professional with practical experience in **IT support, hardware and software troubleshooting, computer labs, user support, networking, and application development**.
+I am an IT professional with practical experience in IT support, hardware and software troubleshooting, computer labs, user support, and basic networking, along with application development experience.
 
 My current career goal is to pursue an **Ausbildung als Fachinformatiker für Systemintegration** in Germany and develop deeper practical skills in **IT infrastructure, networking, system administration, and technical support**.
 
@@ -49,12 +49,10 @@ Areas I am particularly interested in:
 * Basic Network Configuration
 * LAN / WLAN
 * Network Troubleshooting
-* Cisco Packet Tracer
 
 ### System Administration
 
 * Windows Administration Fundamentals
-* Linux Administration Fundamentals
 * User & Permission Management
 * Backup Fundamentals
 * System Documentation
@@ -64,10 +62,11 @@ Areas I am particularly interested in:
 * PHP
 * Laravel
 * JavaScript
-* React
+* HTML
+* CSS
+* Wordpress
 * MySQL
 * PostgreSQL
-* REST APIs
 * Git & GitHub
 
 ---
@@ -101,20 +100,6 @@ Practical learning and documentation of Windows Server administration.
 * Group Policy fundamentals
 * Client-server environment
 
-### 🔹 Linux Administration Lab
-
-Practical Linux administration and troubleshooting exercises.
-
-**Topics:**
-
-* Linux installation
-* Users and permissions
-* SSH
-* File management
-* Services
-* Basic networking
-* System troubleshooting
-
 ### 🔹 IT Helpdesk / Ticketing System
 
 A web-based IT support system for managing technical support requests.
@@ -139,10 +124,12 @@ I also have practical experience developing web-based applications using:
 * PHP
 * Laravel
 * JavaScript
-* React
+* HTML
+* CSS
+* Wordpress
 * MySQL
 * PostgreSQL
-* WordPress
+* Git & GitHub
 
 This background gives me an understanding of both **software applications and the IT systems that support them**.
 
@@ -175,7 +162,7 @@ This background gives me an understanding of both **software applications and th
 
 ### IT Instructor / Training Lead
 
-**Omni Academy**
+**OHM Learning Academy**
 
 * IT training
 * MySQL
